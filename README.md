@@ -12,4 +12,4 @@ El juego se puede mover con las flechas de de izquierda y derecha, tambien se pu
 
 ## Bugs conocidos
 
-Algunos de los bugs conocidos son zonas en el piso que impiden poder moverse con livertad por escenario, ademas de que existe una mecanica no intenciada de "agarrado en las paredes".
+Algunos de los bugs conocidos son zonas en el piso que impiden poder moverse con libertad por el escenario, ademas de que existe una mecanica no intencionada de "agarrado en las paredes".
